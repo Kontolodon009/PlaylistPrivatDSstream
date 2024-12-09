@@ -1,5 +1,63 @@
-<!DOCTYPE html>
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUwu1nKmpkqBKs6ma8-NjsphN5z2CmsjaM2narsg86JvmiFHaNgD95WmDMIwvbGD49_fvn5M7QPlDb8H-0fTh6j6CN8O2zRXrxYA0-FLWBrz71TnsyHsodL0ebRDl_26n5B9v2n70TxLbhKjDJJGEA_TmNWd_aS3hazYXu0r3Ky31Vvt9lPezaBFvbKz0/s960/napoli-vs-lazio-70fa9a.jpg" group-title="⚽LIVE EVENT 9/12/24",LIGA ITALIA SERI A 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium609/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="Movies",Siar
+https://zozotv.xyz:443/live/mubaen/k895427/1912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="Movies",Dunia Senima
+https://zozotv.xyz:443/live/mubaen/k895427/1909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="Movies",Degup
+https://zozotv.xyz:443/live/mubaen/k895427/1908.ts
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Movies",BOO (Malay)
+https://zozotv.xyz:443/live/mubaen/k895427/408.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
+https://zozotv.xyz:443/live/mubaen/k895427/96.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO (ID)
+https://zozotv.xyz:443/live/mubaen/k895427/693.ts
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movies",HBO Hits
+https://zozotv.xyz:443/live/mubaen/k895427/97.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movies",HBO Family
+https://zozotv.xyz:443/live/mubaen/k895427/98.ts
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movies",HBO Signature
+https://zozotv.xyz:443/live/mubaen/k895427/99.ts
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="Movies",ShowCase Movies
+https://zozotv.xyz:443/live/mubaen/k895427/385.ts
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="Movies",Rock Action
+https://zozotv.xyz:443/live/mubaen/k895427/89.ts
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Movies",Galaxy
+https://zozotv.xyz:443/live/mubaen/k895427/108.ts
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="Movies",Galaxy Premium
+https://zozotv.xyz:443/live/mubaen/k895427/109.ts
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Movies",Cinemax
+https://zozotv.xyz:443/live/mubaen/k895427/107.ts
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="Movies",Cinemachi
+https://zozotv.xyz:443/live/mubaen/k895427/2000.ts
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="Movies",Cinemachi Action
+https://zozotv.xyz:443/live/mubaen/k895427/1999.ts
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="Movies",Cinemachi MAX
+https://zozotv.xyz:443/live/mubaen/k895427/1998.ts
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="Movies",Cinemachi Xtra
+https://zozotv.xyz:443/live/mubaen/k895427/1997.ts
+#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="Movies",Cinemachi Kids
+https://zozotv.xyz:443/live/mubaen/k895427/1996.ts
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="Movies",CinemaWorld
+https://zozotv.xyz:443/live/mubaen/k895427/111.ts
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Movies",My Cinema
+https://zozotv.xyz:443/live/mubaen/k895427/394.ts
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Movies",My Cinema Asia
+https://zozotv.xyz:443/live/mubaen/k895427/395.ts
+#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Movies",My Family
+https://zozotv.xyz:443/live/mubaen/k895427/396.ts
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Movies",&Prive HD
+https://zozotv.xyz:443/live/mubaen/k895427/105.ts
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Movies",&Flix HD
+https://zozotv.xyz:443/live/mubaen/k895427/104.ts
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Movies",Sony PIX
+https://zozotv.xyz:443/live/mubaen/k895427/298.ts
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Movies",Star Movies
+https://zozotv.xyz:443/live/mubaen/k895427/299.ts
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movies",Star Movies Select
+https://zozotv.xyz:443/live/mubaen/k895427/300.ts
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",HITS Movies
+https://zozotv.xyz:443/live/mubaen/k895427/110.ts
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Movies",Thrill
+https://zozotv.xyz:443/live/mubaen/k895427/112.ts
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Movies",IMC
+https://zozotv.xyz:443/live/mubaen/k895427/113.ts
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="Movies",Flik
