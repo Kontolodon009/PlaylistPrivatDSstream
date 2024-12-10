@@ -229,3 +229,658 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="[DS] PREMIUM CH",Zee Bioskop
 http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/157584.ts
+
+
+
+<!DOCTYPE html>
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSssOW5mF1ANH8LwE4wXDA3XM9RdCu-OosIO7mRjlg0eFUK7bSmcCnXIsE&s=10" group-title="[DS] MOVIE",L'quipe Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBhQhxp4l0hvaeOgTIoyOi0MDGj5Y3TXXOOtP0xM5UMICKktraiqUmSE&s=10" group-title="[DS] MOVIE",Ondemand China
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr-FID8mdIkkxMOyDA3riaze_4dlFWWunog&usqp=CAU" group-title="[DS] MOVIE",Movie Box
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg" group-title="[DS] MOVIE",Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/212de77e-d899-46c9-b22e-0936684c8f14/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://iptvunited.org:8080/images/6971bea5307997c1da6824240ea14d18.png" tvg-name="CINESTAR COMEDY" group-title="[DS] MOVIE",CINESTAR COMEDY
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/54618
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" tvg-name="" group-title="[DS] MOVIE",Chinese Drama
+https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxextrahd-logo.png" tvg-name="" group-title="[DS] MOVIE",Film Box Extra (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/46248.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/965/49965-SNAPSHOT-m.png" group-title="[DS] MOVIE",CINEMACHI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="[DS] MOVIE",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://s3.ap-northeast-2.amazonaws.com/tvn-wordpress/tvn-movies/staging/tvN-Movies-Logo-at-top-banner2.png" group-title="[DS] MOVIE",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRBqp_e3cfVmQA5wBhaakdWCC3pm2N1FPrA&usqp=CAU" group-title="[DS] MOVIE",Warner TV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="[DS] MOVIE",WARNER TV
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y4G5D5R/Warner.jpg" group-title="[DS] MOVIE",WARNER ES (SN)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="Cinemachi" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" tvg-name="Cinemachi" group-title="[DS] MOVIE",Cinemachi HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="CinemachiAction" tvg-logo="https://medianet.mv/media/channel/236x0-icon.png" tvg-name="Cinemachi Action" group-title="[DS] MOVIE",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="CinemachiMax" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" tvg-name="Cinemachi Max" group-title="[DS] MOVIE",Cinemachi Max Uhuy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="[DS] MOVIE",Cinemachi Max
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="[DS] MOVIE",Cinemachi Xtra
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="[DS] MOVIE",-1  ,Citra Bioskop ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="[DS] MOVIE",-1  ,Citra Bioskop FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="[DS] MOVIE",-1  ,Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="[DS] MOVIE",-1  ,Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="[DS] MOVIE",-1  ,Citra Drama FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="[DS] MOVIE",-1  ,Citra Drama ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png" group-title="[DS] MOVIE",IFC Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium656/index.m3u8
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbo.jpg" group-title="[DS] MOVIE",HBO Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg" group-title="[DS] MOVIE",HBO Signature Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg" group-title="[DS] MOVIE",HBO Hits Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg" group-title="[DS] MOVIE",HBO Family Inter
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg" group-title="[DS] MOVIE",Cinemax Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbo.jpg" group-title="[DS] MOVIE",HBO (NT)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",HBO Signature (NT)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg" group-title="[DS] MOVIE",HBO Hits (NT)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26596
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg" group-title="[DS] MOVIE",HBO Family (NT)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26598
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg" group-title="[DS] MOVIE",Cinemax (NT)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:-1 tvg-id="Cinemax.us" streamId="131" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="Cinemax" channel-number="131" group-title="[DS] MOVIE",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium374/index.m3u8
+#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="[DS] MOVIE",Cinemax FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="HBO.us" streamId="158" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO" channel-number="158" group-title="[DS] MOVIE",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium321/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="[DS] MOVIE",HBO Hits
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" streamId="161" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" tvg-name="HBO Family" channel-number="161" group-title="[DS] MOVIE",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium691/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" streamId="162" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" tvg-name="HBO Signature" channel-number="162" group-title="[DS] MOVIE",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium693/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" tvg-name="HBO HD" group-title="[DS] MOVIE",HBO HD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/Cinemax_png" group-title="[DS] MOVIE",Cinemax TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="HBO.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="[DS] MOVIE",HBO HD TH
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="http://gg.gg/HboFamily_png" group-title="[DS] MOVIE",HBO Family TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="http://gg.gg/HboHits_png" group-title="[DS] MOVIE",HBO Hits TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" tvg-name="HBO HD" group-title="[DS] MOVIE",HBO HD FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="[DS] MOVIE",HBO HD CHINA
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO Family" group-title="[DS] MOVIE",HBO Family TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="[DS] MOVIE",HBO Family CHINA
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO Signature" group-title="[DS] MOVIE",HBO Signature TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="[DS] MOVIE",HBO Signature CHINA
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+#EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO Hits" group-title="[DS] MOVIE",HBO Hits TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="[DS] MOVIE",HBO Hits CHINA
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="[DS] MOVIE",HBO USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium321/index.m3u8
+#EXTINF:-1 tvg-id="29032213747" tvg-logo="http://iptvunited.org:8080/images/c0c3797f5a6f976a78f848e7c27df1c7.png" tvg-name="HBO HD" group-title="[DS] MOVIE",HBO HD
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/13747
+#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOjj7ypdkeu1p1XqcBenDJA33kcfEU696-Q&usqp=CAU" tvg-name="HBO Xtreme" group-title="[DS] MOVIE",HBO Xtreme (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/49700.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIZI48BR-RaRRbNyKKlxcyVBN5BBJqg0yQA&usqp=CAU" tvg-name="HBO" group-title="[DS] MOVIE",HBO HD (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/49705.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIZI48BR-RaRRbNyKKlxcyVBN5BBJqg0yQA&usqp=CAU" tvg-name="HBO 2" group-title="[DS] MOVIE",HBO HD 2 (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/49704.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO Signature" group-title="[DS] MOVIE",HBO Signature (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/49701.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lABQagP5aaloBJ3d4joJ9muVda4bTCcjpPJG1fopCDuEeMTe_Oa4_Ps&s=10" tvg-name="HBO Mundi" group-title="[DS] MOVIE",HBO Mundi (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/49702.m3u8
+#EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO Hits" group-title="[DS] MOVIE",HBO Hits (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/71037.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" tvg-name="CINEMAX" group-title="[DS] MOVIE",Cinemax (YS)
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/71058.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="[DS] MOVIE",AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="[DS] MOVIE",AXN PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="[DS] MOVIE",AXN FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="[DS] MOVIE",AXN JPN
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="[DS] MOVIE",AXN NT
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="[DS] MOVIE",KIX DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="[DS] MOVIE",KIX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="[DS] MOVIE",KIX (NT)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="[DS] MOVIE",KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg" group-title="[DS] MOVIE",KBS Korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHE02Rex7i6u2GKcGPXD7loNKbrauHEjYZFgKJQAAx8e7oa-9mZMld-1Y&s=10" group-title="[DS] MOVIE",KBS World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYXonPabhwKEkLxPqutU8NqN2DLDG5XjBgQ&usqp=CAU" group-title="[DS] MOVIE",TVN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYXonPabhwKEkLxPqutU8NqN2DLDG5XjBgQ&usqp=CAU" group-title="[DS] MOVIE",TVN HD FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fR0fbsQgS9tkqF_uwKOvsYSHMtIHokGqNw&usqp=CAU" group-title="[DS] MOVIE",TvN movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fR0fbsQgS9tkqF_uwKOvsYSHMtIHokGqNw&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",TVN Movies ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fR0fbsQgS9tkqF_uwKOvsYSHMtIHokGqNw&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",TVN Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fR0fbsQgS9tkqF_uwKOvsYSHMtIHokGqNw&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",TVN Movies Indonesia
+http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fR0fbsQgS9tkqF_uwKOvsYSHMtIHokGqNw&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",TVN Movies FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYXonPabhwKEkLxPqutU8NqN2DLDG5XjBgQ&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",TVN Premium Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDqjHsARapCj2wGbJXOtnZfWo53aA6awjRQ&usqp=CAU" tvg-name="Action Hollywood Movies" group-title="[DS] MOVIE",Action Hollywood Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGIkda_VzVC4hGoOHbnCgcSeELB4lPLtYaZLtBsKX3J8XzJJ_OXcIVGo&s=10" group-title="[DS] MOVIE",Bioskop Indonesia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGIkda_VzVC4hGoOHbnCgcSeELB4lPLtYaZLtBsKX3J8XzJJ_OXcIVGo&s=10" group-title="[DS] MOVIE",Bioskop Indonesia ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGIkda_VzVC4hGoOHbnCgcSeELB4lPLtYaZLtBsKX3J8XzJJ_OXcIVGo&s=10" group-title="[DS] MOVIE",Bioskop Indonesia (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-id="bioskopindonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGIkda_VzVC4hGoOHbnCgcSeELB4lPLtYaZLtBsKX3J8XzJJ_OXcIVGo&s=10" group-title="[DS] MOVIE",Bioskop Indonesia (MT)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="[DS] MOVIE",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="[DS] MOVIE",Paramount Movie
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=,https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRZ1cN15E67fwTky4ao69-9cTx0zoLZF-zQ&usqp=CAU" tvg-name="Galaxy" group-title="[DS] MOVIE",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRZ1cN15E67fwTky4ao69-9cTx0zoLZF-zQ&usqp=CAU" tvg-name="Galaxy" group-title="[DS] MOVIE",Galaxy ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" tvg-name="Galaxy Premium" group-title="[DS] MOVIE",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" tvg-name="Galaxy Premium" group-title="[DS] MOVIE",Galaxy Premium ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgr-RdTG2ELjgK3rUwujYo8vojgmWkNXDg-A&usqp=CAU" tvg-name="Dunia Sinema" group-title="[DS] MOVIE",Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSonGR7J55dNACtxbgGm2GRHu08lQoyD8mcw&usqp=CAU" group-title="[DS] MOVIE",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSonGR7J55dNACtxbgGm2GRHu08lQoyD8mcw&usqp=CAU" group-title="[DS] MOVIE",IMC ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtw3QlUHLlAXwYneXmUq4Dhp5JuPyiuRjSWg&usqp=CAU" group-title="[DS] MOVIE",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hMDFEz0A0q53M-wjuj62uKbcoX8GybazWQ&usqp=CAU" group-title="[DS] MOVIE",Xing Kong TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-name="ONE" group-title="[DS] MOVIE",One HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-name="ONE" group-title="[DS] MOVIE",One HD FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Rakuten Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Rakuten Family
+http://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 6 (Rakuten)
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 7 (Rakuten)
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 8 (Rakuten)
+https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 9 (Rakuten)
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 10 (Rakuten)
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 11 (Rakuten)
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 12 (Rakuten)
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 13 (Rakuten)
+https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="[DS] MOVIE",Family 16 (Rakuten)
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106" group-title="[DS] MOVIE",Paramount
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=,https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-name="Paramount" group-title="[DS] MOVIE",Paramount ES (SN)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIDFuus8nUZGRTOIm1zQIrvff-twzKy2FuzQ&usqp=CAU" group-title="[DS] MOVIE",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP899UPR4CRgMdEJjcditl3geoP6rotddyUA&usqp=CAU" group-title="[DS] MOVIE",PlutoTV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP899UPR4CRgMdEJjcditl3geoP6rotddyUA&usqp=CAU" group-title="[DS] MOVIE",PlutoTV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8OU5vhBFEarWuZ9eZVwFvSNYg0C9slPImQ&usqp=CAU" group-title="[DS] MOVIE",PlutoTV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3CYGe6oJk5dg_g5Wm7taqdnCAIaRIcC0Bw&usqp=CAU" group-title="[DS] MOVIE",PlutoTV Crime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBo0JZABXoIZWrvrosPmoDwCTCvljA99G5Kg&usqp=CAU" group-title="[DS] MOVIE",PlutoTV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="wowowprime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiYMVFd6cV3vpiVhfKqTFdBp5uqscM5NN1Fw&usqp=CAU" group-title="[DS] MOVIE",Wowow Prime
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="wowowlive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaTg8xcUUBSiyLCW62Irx6MdK7UabeB4vDw&usqp=CAU" group-title="[DS] MOVIE",Wowow Live
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="wowowcinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vk64wif9AeoPcIc0j0JKpzj2KC1UTIPdog&usqp=CAU" group-title="[DS] MOVIE",Wowow Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_pc.png?1130" group-title="[DS] MOVIE",Wowow Plus
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9a/CJ_ENM_2021.jpg" group-title="[DS] MOVIE",CJ ENM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" group-title="[DS] MOVIE",Rock Entertainment
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" group-title="[DS] MOVIE",Rock Entertainment FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="[DS] MOVIE",Rock Action
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="[DS] MOVIE",Rock Action FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="myfamily.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifCawZnmex_pA2lnT7jpq_fAJgIVBN_YnKA&usqp=CAU" group-title="[DS] MOVIE",My Family Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="myfamily.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifCawZnmex_pA2lnT7jpq_fAJgIVBN_YnKA&usqp=CAU" group-title="[DS] MOVIE",My Family Channel DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="[DS] MOVIE",My Cinema
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="[DS] MOVIE",My Cinema DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="[DS] MOVIE",My Cinema ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="[DS] MOVIE",My Cinema Asia DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+#EXTINF:-1 tvg-id="mycinemaasia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsbfwy7jV2cRwfEp72ZXP4tlGk0SVdn07Og&usqp=CAU" group-title="[DS] MOVIE",My Cinema Asia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="mycinemaeurope.id" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="[DS] MOVIE",My Cinema Europe DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="[DS] MOVIE",Gem TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="[DS] MOVIE",Gem
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="[DS] MOVIE",Gem FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="[DS] MOVIE",K+ DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="[DS] MOVIE",K+
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=926172&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="[DS] MOVIE",THRILL (NT)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="[DS] MOVIE",THRILL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="[DS] MOVIE",Thrill
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKdzb0-sOhgCnLaWuFVHzyPLJs3I8o3O09EawA7YppqUNwYP56kHy20DQ&s=10" tvg-country="" tvg-language="" group-title="[DS] MOVIE",Cinema World ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKdzb0-sOhgCnLaWuFVHzyPLJs3I8o3O09EawA7YppqUNwYP56kHy20DQ&s=10" tvg-country="" tvg-language="" group-title="[DS] MOVIE",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_BOctboKJSva_KyqAg78bbzHnQQ1LRzRPg&usqp=CAU" group-title="[DS] MOVIE",HITS NOW ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_BOctboKJSva_KyqAg78bbzHnQQ1LRzRPg&usqp=CAU" group-title="[DS] MOVIE",HITS NOW FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" tvg-country="" tvg-language="" group-title="[DS] MOVIE",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" tvg-country="" tvg-language="" group-title="[DS] MOVIE",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title="[DS] MOVIE",ZEE BIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title="[DS] MOVIE",ZEE BIOSKOP ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title="[DS] MOVIE",ZEE BIOSKOP TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Zee World HD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Zee CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/dish1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/dish1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/dish1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrd2Li-uobHlDQnW9D9Bn9w_z1nNaYa0HRHYmocaKXw&s" group-title="[DS] MOVIE",Zee Bollywood
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpSHPcryRO6P5oVMLVvloiEQdiZev59syT8zRnptyew&s" group-title="[DS] MOVIE",Zee Action
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMT7vcOS5q1gl1yOyWK5N_x5y-vP0xgqu9MKBJqRwyA&s" group-title="[DS] MOVIE",zee Anmol Cinema
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-53AgJEzQ9OgAXGEEGOD9V11Woxn2l3shHcnATwU3w&s" group-title="[DS] MOVIE",zee Classic
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" tvg-name="Celestial Movies" group-title="[DS] MOVIE",Celestial Movies Indonesia DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" tvg-name="Celestial Movies" group-title="[DS] MOVIE",Celestial Movies Indonesia (NT)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" tvg-name="Celestial Movies" group-title="[DS] MOVIE",Celestial Movies Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",Celestial Movies Indonesia ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" tvg-name="" group-title="[DS] MOVIE",Celestial Movies FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tbZe1KAOHbwkFzav1rGRhvPS7D4yAZ1UGw&usqp=CAU" tvg-name="CCM" group-title="[DS] MOVIE",Celestial Clasic Movies DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tbZe1KAOHbwkFzav1rGRhvPS7D4yAZ1UGw&usqp=CAU" tvg-name="CCM" group-title="[DS] MOVIE",Celestial Clasic Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" tvg-name="IMC" group-title="[DS] MOVIE",Indonesia Movie Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" tvg-name="IMC" group-title="[DS] MOVIE",Indonesia Movie Channel ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="[DS] MOVIE",FMN (Telenovela)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="[DS] MOVIE",FMN HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Premiere UK" group-title="[DS] MOVIE",Sky Cinema Premiere UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium671/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Select UK" group-title="[DS] MOVIE",Sky Cinema Select UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium672/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Hits UK" group-title="[DS] MOVIE",Sky Cinema Hits UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium673/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Greats UK" group-title="[DS] MOVIE",Sky Cinema Greats UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium674/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Animation UK" group-title="[DS] MOVIE",Sky Cinema Animation UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium675/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Family UK" group-title="[DS] MOVIE",Sky Cinema Family UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium676/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Action UK" group-title="[DS] MOVIE",Sky Cinema Action UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium677/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Thriller UK" group-title="[DS] MOVIE",Sky Cinema Thriller UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium679/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Sci-Fi Horror UK" group-title="[DS] MOVIE",Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium681/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Collection Italy" group-title="[DS] MOVIE",Sky Cinema Collection Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium859/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Uno Italy" group-title="[DS] MOVIE",Sky Cinema Uno Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Action Italy" group-title="[DS] MOVIE",Sky Cinema Action Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="8Sky Cinema Comedy Italy" group-title="[DS] MOVIE",8Sky Cinema Comedy Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Uno +24 Italy" group-title="[DS] MOVIE",Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium863/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Romance Italy" group-title="[DS] MOVIE",Sky Cinema Romance Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Family Italy" group-title="[DS] MOVIE",Sky Cinema Family Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Due +24 Italy" group-title="[DS] MOVIE",Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium866/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="Sky Cinema Drama Italy" group-title="[DS] MOVIE",Sky Cinema Drama Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv0rSKXhIwggOXN6ZL80YZNQpjC1w0Yqv5zybrN_xAO5KfJyEOdxM2HQ&s=10" tvg-name="8Sky Cinema Suspense Italy" group-title="[DS] MOVIE",8Sky Cinema Suspense Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-name="BIZ Cinema" group-title="[DS] MOVIE",BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Auduch.png" tvg-name="JOJ Cinema" group-title="[DS] MOVIE",JOJ Cinema
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-name="iFilm Arabic" group-title="[DS] MOVIE",iFilm Arabic
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKpybpt.png" tvg-name="iFilm Persian" group-title="[DS] MOVIE",iFilm Persian
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rZbIYb.png" tvg-name="iFilm English" group-title="[DS] MOVIE",iFilm English
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxFC11S.png" tvg-name="iFilm 2" group-title="[DS] MOVIE",iFilm 2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-name="MovieBox" group-title="[DS] MOVIE",MovieBox
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-name="Bollywood HD" group-title="[DS] MOVIE",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Classic Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg" group-title="[DS] MOVIE",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMnpsQ5.png" tvg-name="Discover Film" group-title="[DS] MOVIE",Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yH88Q1.png" tvg-name="MBC+ Drama" group-title="[DS] MOVIE",MBC+ Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQuZL7i1zv--heYpDcjbpez8QtZBtA02JIw&usqp=CAU" group-title="[DS] MOVIE",MyTime Movie Network FHD UK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQuZL7i1zv--heYpDcjbpez8QtZBtA02JIw&usqp=CAU" group-title="[DS] MOVIE",MyTime Movie Network FHD ES
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQuZL7i1zv--heYpDcjbpez8QtZBtA02JIw&usqp=CAU" group-title="[DS] MOVIE",MyTime Movie Network FHD FR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQuZL7i1zv--heYpDcjbpez8QtZBtA02JIw&usqp=CAU" group-title="[DS] MOVIE",MyTime Movie Network FHD DE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQuZL7i1zv--heYpDcjbpez8QtZBtA02JIw&usqp=CAU" group-title="[DS] MOVIE",MyTime Movie Network HD MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="[DS] MOVIE",Sony Aath
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s" group-title="[DS] MOVIE",Sony Tv
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" tvg-name="SONY MAX" group-title="[DS] MOVIE",SONY MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" tvg-name="SONY MAX" group-title="[DS] MOVIE",SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="[DS] MOVIE",Sony Max 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="[DS] MOVIE",Sony Sab HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="[DS] MOVIE",Sony PAL
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="[DS] MOVIE",Sony WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/marathis.png" group-title="[DS] MOVIE",Sony Marathi
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="[DS] MOVIE",Sony Pix
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="[DS] MOVIE",Sony Yay
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com//&key=Cikwoilah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="[DS] MOVIE",-1  ,SONY PIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5175&deviceMac=00:1A:79:E5:A9:30
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="[DS] MOVIE",-1  ,SONY MAX HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="[DS] MOVIE",-1  ,SONY MAX 2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="[DS] MOVIE",-1  ,SONY SAB HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Sony_Pal_new.png" group-title="[DS] MOVIE",-1  ,SONY PAL HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="[DS] MOVIE",-1  ,SONY AATH HD (MX)
+http://extraott.com/live/6945574629/7169628753/400159477.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="[DS] MOVIE",-1  ,SONY Entertainment (MX)
+http://extraott.com/live/6945574629/7169628753/400232356.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3shzkcyFOXCwxs6W-tF9nTOtISGfGF_hjvI7ZkfBGKFsRZBooE-jSkrM&s=10" group-title="[DS] MOVIE",Flik ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6AwdPuUe6C0faaRiO3ibnChJTJ2aFBCYLQ&usqp=CAU" group-title="[DS] MOVIE",SEO TV Film
+https://seo.tv.bo/tv/SEO-TV-4.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png" group-title="[DS] MOVIE",Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png" group-title="[DS] MOVIE",Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="64a3d96f060e830008af6745" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-name="MovieSphere by Lionsgate" group-title="[DS] MOVIE",MovieSphere by Lionsgate
+https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1dad4fcc-3b72-11ef-8ff5-d6f7cc148d2a
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png" group-title="[DS] MOVIE",BFlix Movies
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3wgu3ScO8d0Vmb75AUefU8ex2WzsrsgH_L2G2kOuZ3K_9dQ3AgDC8t8&s" group-title="[DS] MOVIE",Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Top Movies - Rakuten TV
+https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Action Movies - Rakuten TV
+https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Comedy Movies - Rakuten TV
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Drama Movies - Rakuten TV
+https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",British Films - Rakuten TV
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Thrillers - Rakuten TV
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.coinsbee.com/version2/dist/assets/img/brands/Rakuten-TV.png" group-title="[DS] MOVIE",Romance Movies - Rakuten TV
+https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HTx0rHW6DYYxZpyh90KFbS8wrQ4BTjEmJg&usqp=CAU" group-title="[DS] MOVIE",BOO (MT)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvsx9_txW8l-6XT7hEsOz40iMJiSHfzwVI3FcHcL4QZo2FB3wpzvezc4&s=10" group-title="[DS] MOVIE",ETV1
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvsx9_txW8l-6XT7hEsOz40iMJiSHfzwVI3FcHcL4QZo2FB3wpzvezc4&s=10" group-title="[DS] MOVIE",ETV2
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvsx9_txW8l-6XT7hEsOz40iMJiSHfzwVI3FcHcL4QZo2FB3wpzvezc4&s=10" group-title="[DS] MOVIE",ETV3
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvsx9_txW8l-6XT7hEsOz40iMJiSHfzwVI3FcHcL4QZo2FB3wpzvezc4&s=10" group-title="[DS] MOVIE",ETV4
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/d4/5e/f1d45e2ab1f3f3401e35cbd6d5bb1a39.jpg" group-title="[DS] MOVIE",HORROR CHANNEL
+https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Horor.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMeV4TH42KiuEHAhMq4sMYExEJlzips13TN1VvI8Ho8LxAZVvlLvFZWLE&s=10" tvg-name="" group-title="[DS] MOVIE",Warner Film
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="USBD700011RE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtRCmPqCVkkWxrboyRy49rdrXENRUkVGqPsPHB-9-srJPKmntB8CuaPCiu&s=10" tvg-name="GRAVITAS MOVIES" group-title="[DS] MOVIE",GRAVITAS MOVIES
+https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5e/20/34/5e2034464163f9bdea778c3be58d5d77.jpg" group-title="[DS] MOVIE",5 STARMAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a7/23/e2/a723e2f5869a77db04c481a10cdb3ded.jpg" group-title="[DS] MOVIE",AMC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/db/b1/69/dbb1697f3595c368f28ec27bdf648769.jpg" group-title="[DS] MOVIE",COMEDY CENTRAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e0/74/bb/e074bb21c2efde7fedeb46f35cba0a5e.jpg" group-title="[DS] MOVIE",FX MOVIES
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/00/3a/f5/003af52e084850de09f6f3e3427a9fbd.jpg" group-title="[DS] MOVIE",SONY MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",HBO (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",HBO Family (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",HBO Hits (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",HBO Signature (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",Etv Bioskop 3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",Etv Bioskop 4
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",Etv Bioskop 02 (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="[DS] MOVIE",Etv Bioskop 03
+#
+#EXTINF:-1 tvg-logo="n" group-title="[DS] MOVIE",Etv Bioskop 04 (MV)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1 tvg-id="29032213748" tvg-logo="http://iptvunited.org:8080/images/e4365fbeae6c27759d1657f4e2403823.png" tvg-name="HBO 2 HD" group-title="[DS] MOVIE",HBO 2 HD
+http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="29032213749" tvg-logo="http://iptvunited.org:8080/images/22871ddf6f36a4fb1f522aff41005fb1.png" tvg-name="HBO 3 HD" group-title="[DS] MOVIE",HBO 3 HD
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/13749
+#EXTINF:-1 tvg-id="13758" tvg-logo="http://iptvunited.org:8080/images/5bd8aafa5439bda187986026e756c2a2.png" tvg-name="CINEMAX 1 HD" group-title="[DS] MOVIE",CINEMAX 1 HD
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/13758
+#EXTINF:-1 tvg-id="13759" tvg-logo="http://iptvunited.org:8080/images/18b24e33f00db40f36faf48eed380bcb.png" tvg-name="CINEMAX 2 HD" group-title="[DS] MOVIE",CINEMAX 2 HD
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/13759
+#EXTINF:-1 tvg-id="HBO2.us" streamId="159" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" tvg-name="HBO2" channel-number="159" group-title="[DS] MOVIE",HBO2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium689/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" streamId="160" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" tvg-name="HBO Comedy" channel-number="160" group-title="[DS] MOVIE",HBO Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium690/index.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" streamId="163" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" tvg-name="HBO Zone" channel-number="163" group-title="[DS] MOVIE",HBO Zone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium694/index.m3u8
