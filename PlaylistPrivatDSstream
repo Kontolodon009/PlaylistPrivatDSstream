@@ -4991,7 +4991,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
-
 <!DOCTYPE html>
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/29xcfw9o9m8z7nctgihsk/spotv1.png?rlkey=2oo4x722lorrpyl299h9dujuz&st=qzrys9bh&dl=0" tvg-name="SPO TV 1" group-title="[DS] SPORT VIP 3👑",SPO TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5252,7 +5251,6 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
-
 
 
 
