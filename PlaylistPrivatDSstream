@@ -246,6 +246,7 @@ http://rr3.dens.tv/s/s34/index.m3u8
 http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/157584.ts
 
 
+
 #EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://iili.io/JmoBUPI.png" group-title="[DS] KIDS",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
