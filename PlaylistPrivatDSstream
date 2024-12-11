@@ -198,7 +198,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTINF:-1 tvg-id="FunPlanet.id" tvg-logo="https://iili.io/JmoBSMN.png" group-title="[DS] KIDS",Fun Planet
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
  
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://iili.io/JmoB1ZQ.png" group-title="KIDS",MyKidz
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://iili.io/JmoB1ZQ.png" group-title="[DS] KIDS",MyKidz
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mykidz.m3u8
  
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-logo="https://iili.io/JmoB1ZQ.png" group-title="[DS] KIDS",MyKidz (MNC Vision)
